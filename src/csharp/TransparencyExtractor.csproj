@@ -45,9 +45,6 @@
     <Content Include="black.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="original.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="white.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
